@@ -2,7 +2,7 @@
 p{
     font-family: sans-serif;
     font-size: 120%;
-margin-right: 25%;
+margin-right: 35%;
 }
 a{
     color: #0033CC;
@@ -17,4 +17,14 @@ li{
 body{
     background-color:#CCCCCC;
     position: absolute;
+}
+#container{
+position: absolute;
+right: 5px;
+top: 250px;
+
+}
+ul{
+    margin-right: 35%; 
+margin-bottom: 50px; ;
 }
